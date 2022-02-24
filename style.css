@@ -57,7 +57,6 @@ body{
 header{
     display: flex;
     height: 50px;
-    background-color: beige;
     justify-content: space-around;
     background-color: #1f2937;
     color: whitesmoke;
@@ -170,6 +169,11 @@ button{
     margin-right: 20px;
 }
 footer{
-    height: 50px;
-    background-color: lightcoral;
+    display: flex;
+    background-color: #1f2937;
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    font-size: 18px;
 }
