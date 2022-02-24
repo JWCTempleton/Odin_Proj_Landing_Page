@@ -1,0 +1,25 @@
+header{
+    height: 100px;
+    background-color: beige;
+}
+
+.intro{
+    height: 100px;
+    background-color: aquamarine;
+}
+.info{
+    height: 100px;
+    background-color: gray;
+}
+.quote{
+    height: 100px;
+    background-color: blanchedalmond;
+}
+.action{
+    height: 100px;
+    background-color: lightgreen;
+}
+footer{
+    height: 50px;
+    background-color: lightcoral;
+}
