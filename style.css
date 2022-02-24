@@ -89,6 +89,14 @@ ul{
     padding: 50px 0 100px 0;
     
 }
+button{
+    background-color: #3882f6;
+    border-radius: 10px;
+    border: none;
+    padding: 8px 16px;
+    margin-top: 12px;
+    color: white;
+}
 .hero-text{
     width: 30%;
 }
@@ -100,10 +108,10 @@ ul{
     
 }
 
-.hero-image{
+.hero-image img{
     width: 575px;
     height: auto;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .info{
     background-color: white;
